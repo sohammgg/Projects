@@ -1,2 +1,1 @@
-This was a project done by Group members and I under the course IE2111, Principles and Practises. This module covered topics that included principles and practice of cash flow analysis, decision making involving single and multiple alternatives, depreciation of capital assets and after-tax project cash-flow analysis, replacement analysis of capital assets, and dealing with risk & uncertainty. 
-For our project our group decided to analyse the benefits and risks of investing in a gold related ETF, IAUF versus investing in an alternative asset class, watches. 
+
